@@ -1,1 +1,2 @@
 linuxserver/jackett
+apachewebdav/apachewebdav
